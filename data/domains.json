@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MenRituals.com",
+    "featured": true,
+    "price_range": "$5,000 – $12,000",
+    "description": "Premium brand for men’s wellness, habits, and lifestyle products."
+  },
+  {
+    "name": "QuitSmokingPlanner.com",
+    "featured": true,
+    "price_range": "$3,000 – $7,500",
+    "description": "Perfect for wellness programs, planners, and health platforms."
+  },
+  {
+    "name": "AftershaveForMen.com",
+    "featured": false,
+    "price_range": "$2,000 – $5,000",
+    "description": "Strong domain for men’s grooming and fragrance brands."
+  }
+]
