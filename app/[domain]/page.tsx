@@ -1,4 +1,5 @@
-import { getDomain, getDomains } from "../lib/domains";
+import { getDomain, getDomains } from "../../lib/domains";
+
 import { notFound } from "next/navigation";
 
 export async function generateStaticParams() {
