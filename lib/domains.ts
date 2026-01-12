@@ -1,4 +1,4 @@
-import domains from "@/data/domains.json";
+import domains from "../data/domains.json";
 
 export function getDomains() {
   return domains;
